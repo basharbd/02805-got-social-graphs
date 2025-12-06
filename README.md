@@ -164,6 +164,6 @@ If you refer to this project, you can cite it informally as:
 
 > B. Bdewi, *Network, Language, and Sentiment in Game of Thrones Season 1*,
 > project report for DTU course 02805 Social Graphs and Interactions, 2025.
-> GitHub: [https://github.com/basharbdewi/got-social-graphs](https://github.com/basharbdewi/got-social-graphs)
+> GitHub: [https://github.com/basharbd/02805-got-social-graphs)
 
 
