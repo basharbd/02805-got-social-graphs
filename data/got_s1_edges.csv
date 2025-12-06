@@ -1,0 +1,724 @@
+Source,Target,weight
+Robert Baratheon,Eddard Stark,55
+Eddard Stark,Robert Baratheon,53
+Daenerys Targaryen,Jorah Mormont,40
+Petyr Baelish,Eddard Stark,39
+Jorah Mormont,Daenerys Targaryen,37
+Sam Tarly,Jon Snow,36
+Eddard Stark,Petyr Baelish,34
+Arya Stark,Eddard Stark,32
+Jon Snow,Sam Tarly,31
+Eddard Stark,Cersei Lannister,30
+Eddard Stark,Arya Stark,30
+Bronn,Tyrion Lannister,29
+Tyrion Lannister,Shae,28
+Varys,Petyr Baelish,28
+Cersei Lannister,Robert Baratheon,28
+Shae,Tyrion Lannister,26
+Petyr Baelish,Varys,26
+Cersei Lannister,Eddard Stark,25
+Tyrion Lannister,Bronn,24
+Eddard Stark,Varys,24
+Robert Baratheon,Cersei Lannister,24
+Eddard Stark,Grand Maester Pycelle,23
+Grand Maester Pycelle,Eddard Stark,22
+Varys,Eddard Stark,22
+Bran Stark,Maester Luwin,20
+Eddard Stark,Catelyn Stark,20
+Maester Luwin,Bran Stark,20
+Renly Baratheon,Loras Tyrell,20
+Loras Tyrell,Renly Baratheon,20
+Robb Stark,Catelyn Stark,20
+Catelyn Stark,Eddard Stark,19
+Sansa Stark,Septa Mordane,19
+Theon Greyjoy,Ros,19
+Catelyn Stark,Robb Stark,18
+Septa Mordane,Sansa Stark,17
+Ros,Theon Greyjoy,17
+Viserys Targaryen,Jorah Mormont,17
+Tywin Lannister,Tyrion Lannister,17
+Tyrion Lannister,Tywin Lannister,16
+Robb Stark,Theon Greyjoy,16
+Jon Snow,Tyrion Lannister,15
+Cersei Lannister,Jaime Lannister,15
+Jorah Mormont,Viserys Targaryen,15
+Tyrion Lannister,Jon Snow,15
+Syrio Forel,Arya Stark,14
+Arya Stark,Syrio Forel,14
+Jon Snow,Jeor Mormont,14
+Daenerys Targaryen,Viserys Targaryen,14
+Theon Greyjoy,Robb Stark,14
+Mirri Maz Duur,Daenerys Targaryen,14
+Jeor Mormont,Jon Snow,14
+Daenerys Targaryen,Mirri Maz Duur,14
+Joffrey Lannister,Sansa Stark,13
+Sansa Stark,Joffrey Lannister,13
+Jory Cassel,Jaime Lannister,13
+Arya Stark,Sansa Stark,12
+Viserys Targaryen,Doreah,12
+Sansa Stark,Arya Stark,12
+Lysa Arryn,Tyrion Lannister,12
+Doreah,Viserys Targaryen,12
+Tyrion Lannister,Lysa Arryn,12
+Jon Snow,Maester Aemon,12
+Jaime Lannister,Eddard Stark,12
+Eddard Stark,Jaime Lannister,11
+Joffrey Lannister,Cersei Lannister,11
+Viserys Targaryen,Daenerys Targaryen,11
+Jaime Lannister,Cersei Lannister,11
+Eddard Stark,Jory Cassel,11
+Jory Cassel,Eddard Stark,11
+Cersei Lannister,Joffrey Lannister,11
+Eddard Stark,Lord Varys,11
+Barristan Selmy,Eddard Stark,10
+Jaime Lannister,Jory Cassel,10
+Viserys,Illyrio,10
+Doreah,Daenerys Targaryen,10
+Daenerys Targaryen,Doreah,10
+Walder Frey,Catelyn Stark,10
+Osha,Theon Greyjoy,10
+Catelyn Stark,Walder Frey,10
+Maester Aemon,Jon Snow,10
+Theon Greyjoy,Osha,10
+Jaime Lannister,Tywin Lannister,9
+Jaime Lannister,Catelyn Stark,9
+Lord Varys,Eddard Stark,9
+Catelyn Stark,Petyr Baelish,9
+Sansa Stark,Cersei Lannister,9
+Catelyn Stark,Jaime Lannister,9
+Eddard Stark,Barristan Selmy,9
+Tyrion Lannister,Catelyn Stark,9
+Arya Stark,Jon Snow,9
+Pyp,Grenn,9
+Jorah Mormont,Rakharo,9
+Illyrio,Viserys,9
+Robin Arryn,Lysa Arryn,9
+Theon Greyjoy,Tyrion Lannister,8
+Yoren,Tyrion Lannister,8
+Tyrion Lannister,Mord,8
+Cersei Lannister,Sansa Stark,8
+Daenerys Targaryen,Qotho,8
+Tywin Lannister,Jaime Lannister,8
+Eddard Stark,Sansa Stark,8
+Mordane,Sansa Stark,8
+Qotho,Daenerys Targaryen,8
+Petyr Baelish,Catelyn Stark,8
+Ros,Petyr Baelish,8
+Tyrion Lannister,Jaime Lannister,8
+Jon Snow,Arya Stark,8
+Tyrion Lannister,Yoren,7
+Sansa Stark,Eddard Stark,7
+Eddard Stark,Jon Snow,7
+Sansa Stark,Petyr Baelish,7
+Eddard Stark,Renly Baratheon,7
+Joffrey Lannister,Marillion,7
+Khal Drogo,Daenerys Targaryen,7
+Tyrion Lannister,Theon Greyjoy,7
+Grenn,Jon Snow,7
+Irri,Daenerys Targaryen,7
+Daenerys Targaryen,Khal Drogo,7
+Sansa Stark,Mordane,7
+Grenn,Pyp,7
+Jaime Lannister,Tyrion Lannister,7
+Marillion,Joffrey Lannister,7
+Catelyn Stark,Tyrion Lannister,7
+Rakharo,Jorah Mormont,7
+Ros,Tyrion Lannister,7
+Mord,Tyrion Lannister,7
+Petyr Baelish,Ros,7
+Robert Baratheon,Renly Baratheon,6
+Greatjon Umber,Robb Stark,6
+Daenerys Targaryen,Irri,6
+Jon Snow,Benjen,6
+Wine Merchant,Daenerys Targaryen,6
+Tyrion Lannister,Ros,6
+Catelyn Stark,Cersei Lannister,6
+Benjen,Jon Snow,6
+Lysa Arryn,Catelyn Stark,6
+Jon Snow,Grenn,6
+Robb Stark,Tyrion Lannister,6
+Jon Snow,Eddard Stark,6
+Robb Stark,Jon Snow,6
+Renly Baratheon,Petyr Baelish,6
+Renly Baratheon,Robert Baratheon,6
+Robb Stark,Bran Stark,6
+Lommy Greenhands,Hot Pie,5
+Bran Stark,Eddard Stark,5
+Benjen Stark,Tyrion Lannister,5
+Cersei Lannister,Catelyn Stark,5
+Joffrey Lannister,Tyrion Lannister,5
+Tyrion Lannister,Benjen Stark,5
+Bran Stark,Theon Greyjoy,5
+Bran Stark,Wildling,5
+Tyrion Lannister,Cersei Lannister,5
+Renly Baratheon,Eddard Stark,5
+Jon Snow,Robb Stark,5
+Tyrion Lannister,Robb Stark,5
+Bran Stark,Osha,5
+Grand Maester Pycelle,Petyr Baelish,5
+Eddard Stark,Yoren,5
+Osha,Maester Luwin,5
+Hot Pie,Lommy Greenhands,5
+Maester Luwin,Osha,5
+Eddard Stark,Gendry Baratheon,5
+Barristan Selmy,Robert Baratheon,5
+Maester Luwin,Catelyn Stark,5
+Lancel Lannister,Robert Baratheon,5
+Eddard Stark,Bran Stark,5
+Theon Greyjoy,Bran Stark,5
+Irri,Jorah Mormont,5
+Catelyn Stark,Lysa Arryn,5
+Arya Stark,Joffrey Lannister,5
+Catelyn Stark,Rodrick Cassel,5
+Petyr Baelish,Sansa Stark,5
+Petyr Baelish,Renly Baratheon,4
+Yoren,Arya Stark,4
+Tyrion Lannister,Jeor Mormont,4
+Tyrion Lannister,Joffrey Lannister,4
+Grand Maester Pycelle,Sansa Stark,4
+Robb Stark,Greatjon Umber,4
+Grand Maester Pycelle,Ros,4
+Jon Snow,Benjen Stark,4
+Janos Slynt,Eddard Stark,4
+Tyrion Lannister,Bran Stark,4
+Syrio Forel,Meryn Trant,4
+Barristan Selmy,Cersei Lannister,4
+Pyp,Jon Snow,4
+Theon Greyjoy,Maester Luwin,4
+Grenn,Sam Tarly,4
+Rickon Stark,Bran Stark,4
+Joffrey Lannister,Mycah,4
+Robert Baratheon,Barristan Selmy,4
+Rakharo,Daenerys Targaryen,4
+Jaime Lannister,Jon Snow,4
+Illyrio Mopatis,Varys,4
+Arya Stark,Jory Cassel,4
+Tobho Mott,Eddard Stark,4
+King Joffrey,Sansa Stark,4
+Sansa Stark,Catelyn Stark,4
+Jon Snow,Jaime Lannister,4
+Septa Mordane,Eddard Stark,4
+Catelyn Stark,Luwin,4
+Viserys,Daenerys Targaryen,4
+Catelyn Stark,Sansa Stark,4
+Benjen,Eddard Stark,4
+Catelyn Stark,Vardis Egen,4
+Catelyn Stark,Bran Stark,4
+Ros,Grand Maester Pycelle,4
+Daenerys Targaryen,Wine Merchant,4
+Sam Tarly,Grenn,4
+Daenerys Targaryen,Viserys,4
+Eddard Stark,Robb Stark,4
+Lysa Arryn,Robin Arryn,4
+Sansa Stark,Sandor Clegane,4
+Benjen Stark,Jon Snow,4
+Shae,Bronn,4
+Vardis Egen,Catelyn Stark,4
+Gendry Baratheon,Eddard Stark,4
+Jon Snow,Pyp,4
+Jorah Mormont,Mirri Maz Duur,4
+Kevan Lannister,Tyrion Lannister,4
+Bran Stark,Catelyn Stark,4
+Varys,Illyrio Mopatis,4
+Sandor Clegane,Joffrey Lannister,3
+Robb Stark,Maester Luwin,3
+Sandor Clegane,Tyrion Lannister,3
+Sansa Stark,King Joffrey,3
+Sam Tarly,Alliser Thorne,3
+Kings Landing Baker,Arya Stark,3
+Sansa Stark,Grand Maester Pycelle,3
+Luwin,Catelyn Stark,3
+Joffrey Lannister,Arya Stark,3
+Kevan Lannister,Tywin Lannister,3
+Osha,Bran Stark,3
+Robert Baratheon,Jaime Lannister,3
+Petyr Baelish,Grand Maester Pycelle,3
+Stable Boy,Arya Stark,3
+Jon Snow,Alliser Thorne,3
+Robert Baratheon,Sansa Stark,3
+Petyr Baelish,Robert Baratheon,3
+Mhaegen,Eddard Stark,3
+Rakharo,Irri,3
+Jorah Mormont,Wine Merchant,3
+Meryn Trant,Syrio Forel,3
+Jory Cassel,Hugh Of Vale,3
+Maester Luwin,Robb Stark,3
+Jeor Mormont,Tyrion Lannister,3
+Jeor Mormont,Sam Tarly,3
+Robert Baratheon,Lancel Lannister,3
+Theon Greyjoy,Greatjon Umber,3
+Bran Stark,Tyrion Lannister,3
+Guard,Arya Stark,3
+Alliser Thorne,Sam Tarly,3
+Tyrion Lannister,Kevan Lannister,3
+Arya Stark,Gendry Baratheon,3
+Arya Stark,Yoren,3
+Catelyn Stark,Varys,3
+Theon Greyjoy,Catelyn Stark,3
+Gared,Royce,3
+Arya Stark,Kings Landing Baker,3
+Cersei Lannister,Barristan Selmy,3
+Tyrion Lannister,Maester Luwin,3
+Benjen Stark,Yoren,3
+Varys,Catelyn Stark,3
+Cersei Lannister,Tyrion Lannister,3
+Wildling,Bran Stark,3
+Eddard Stark,Tobho Mott,3
+Arya Stark,Stable Boy,3
+Eddard Stark,Benjen,3
+Tyrion Lannister,Rodrik Cassel,3
+Tyrion Lannister,Sandor Clegane,3
+Catelyn Stark,Maester Luwin,3
+Eddard Stark,Janos Slynt,3
+Hugh Of Vale,Jory Cassel,3
+Yoren,Eddard Stark,3
+Bran Stark,Rickon Stark,3
+Irri,Rakharo,3
+Alliser Thorne,Jon Snow,3
+Cassel,Eddard Stark,3
+Bran Stark,Robb Stark,3
+Catelyn Stark,Guard,2
+Othell Yarwyck,Jeor Mormont,2
+Knight Of House Whent,Catelyn Stark,2
+Marillion,Tyrion Lannister,2
+Kings Guard,Syrio Forel,2
+Waymar Royce,Will,2
+Petyr Baelish,Cersei Lannister,2
+Tywin Lannister,Kevan Lannister,2
+Rodrik Cassel,Tyrion Lannister,2
+Wildling,Osha,2
+Leo Lefford,Addam Marbrand,2
+Wildling,Robb Stark,2
+Petyr Baelish,Jaime Lannister,2
+Petyr Baelish,Jory Cassel,2
+Doreah,Irri,2
+Will,Eddard Stark,2
+Masha Heddle,Tyrion Lannister,2
+Rodrick Cassel,Catelyn Stark,2
+Will,Gared,2
+Rodrick Cassel,Marillion,2
+Rodrick Cassel,Robb Stark,2
+Osha,Wildling,2
+Lord Varys,Barristan Selmy,2
+Osha,Rickon Stark,2
+Maester Luwin,Theon Greyjoy,2
+Catelyn Stark,Knight Of House Whent,2
+Royce,Gared,2
+Maester Aemon,Tyrion Lannister,2
+Royce,Will,2
+Bran Stark,Old Nan,2
+Maester Aemon,Jeor Mormont,2
+Maester Aemon,Daenerys Targaryen,2
+Catelyn Stark,Robert Baratheon,2
+Old Nan,Bran Stark,2
+Old Nan,Robb Stark,2
+Catelyn Stark,Rodrik Cassel,2
+Viserys Targaryen,Khal Drogo,2
+Catelyn Stark,Theon Greyjoy,2
+Maester Luwin,Tyrion Lannister,2
+Man,Grand Maester Pycelle,2
+Mycah,Sansa Stark,2
+Mycah,Joffrey Lannister,2
+Sam Tarly,Jeor Mormont,2
+Bronn,Shae,2
+Lord Varys,Grand Maester Pycelle,2
+Cersei Lannister,King Joffrey,2
+Catelyn Stark,Jon Snow,2
+Lysa Arryn,Bronn,2
+Cersei Lannister,Arya Stark,2
+Soldier,Arya Stark,2
+Arya Stark,Septa Mordane,2
+Pypar,Sam Tarly,2
+Grand Maester Pycelle,Renly Baratheon,2
+Jon Snow,Theon Greyjoy,2
+Robb Stark,Jonos Bracken,2
+Robb Stark,Lannister Scout,2
+Wine Merchant,Jorah Mormont,2
+Tyrion Lannister,Masha Heddle,2
+Robert Baratheon,Arya Stark,2
+Guard,Catelyn Stark,2
+Arya Stark,Street Urchin,2
+Arya Stark,Guard,2
+Gendry Baratheon,Arya Stark,2
+Joffrey Lannister,Sandor Clegane,2
+Gendry Baratheon,Tobho Mott,2
+Tyrion Lannister,Maester Aemon,2
+Grand Maester Pycelle,King Joffrey,2
+Steward,Eddard Stark,2
+Grenn,Alliser Thorne,2
+Jon Snow,Catelyn Stark,2
+Jonos Bracken,Robb Stark,2
+Jeor Mormont,Othell Yarwyck,2
+Jeor Mormont,Maester Aemon,2
+Jaime Lannister,Barristan Selmy,2
+Jory Cassel,Arya Stark,2
+Eddard Stark,Mhaegen,2
+Populace,Eddark Stark,2
+Jaime Lannister,Robert Baratheon,2
+Septa Mordane,Arya Stark,2
+Eddard Stark,Steward,2
+Eddard Stark,Theon Greyjoy,2
+Septa Mordane,Petyr Baelish,2
+Tyrion Lannister,Prostitute,2
+Theon Greyjoy,Eddard Stark,2
+Prostitute,Tyrion Lannister,2
+Jorah Mormont,Irri,2
+Jorah Mormont,Doreah,2
+Ser Vardis,Tyrion Lannister,2
+Syrio Forel,Kings Guard,2
+Rodrick Cassel,Guard,1
+Yoren,Hot Pie,1
+Robin Arryn,Tyrion Lannister,1
+Robb Stark,Jonrobb,1
+Robb Stark,Eddard Stark,1
+Yoren,Sansa Stark,1
+Yoren,Jeor Mormont,1
+Yoren,Marillion,1
+Robb Stark,Old Nan,1
+Robb Stark,Jaime Lannister,1
+Robb Stark,Osha,1
+Yoren,Bran Stark,1
+Rodrik Cassal,Greatjon Umber,1
+Robb Stark,Robin Arryn,1
+Walder Frey,Ryger Rivers,1
+Robert Baratheon,Catelyn Stark,1
+Robert Baratheon,Irri,1
+Robert Baratheon,Bran Stark,1
+Walder Frey,Voices Outside,1
+Robert Baratheon,Jory Cassel,1
+Will,Waymar Royce,1
+Walder Frey,Stevron Frey,1
+Robert Baratheon,Loras Tyrell,1
+Robert Baratheon,Petyr Baelish,1
+Wine Merchant,Doreah,1
+Voices Outside,Jeor Mormont,1
+Robb Stark,Stark Guard,1
+Robert Baratheon,Soldier,1
+Robert Baratheon,Benjen Stark,1
+Viserys Targaryen,Septa Mordane,1
+Robert Baratheon,Barriston,1
+Robert Baratheon,Tyrion Lannister,1
+Wine Merchant,Rakharo,1
+Robb Stark,Will,1
+Yoren,Benjen Stark,1
+Robert Baratheon,Varys,1
+Robert Baratheon,Viserys,1
+Will,Royce,1
+Tell Me Something,Eddard Stark,1
+Rodrik Cassel,Bronn,1
+Viserys Targaryen,Joffrey Lannister,1
+Soldier,Robert Baratheon,1
+Soldier,Cersei Lannister,1
+Shagga,Tyrion Lannister,1
+Shagga,Rodrik Cassal,1
+Tyrion Lannister,Messenger,1
+Shae,Jorah Mormont,1
+Shae,Jon Snow,1
+Tyrion Lannister,Mordane,1
+Tyrion Lannister,Myrcella Baratheon,1
+Several Stark Bannermen,Catelyn Stark,1
+Tyrion Lannister,Petyr Baelish,1
+Ser Alliser,Nights Watch Brother,1
+Septa Mordane,Syrio Forel,1
+Tyrion Lannister,Rast,1
+Tyrion Lannister,Robert Baratheon,1
+Tyrion Lannister,Robin Arryn,1
+Tyrion Lannister,Ser Vardis,1
+Stark Bannermen,Robb Stark,1
+Tyrion Lannister,Leo Lefford,1
+Stark Guard,Catelyn Stark,1
+Steward Of House Stark,Septa Mordane,1
+Syrio Forel,Viserys Targaryen,1
+Syrio Forel,Steward Of House Stark,1
+Theon Greyjoy,Jaime Lannister,1
+Street Urchin,Populace,1
+Tobho Mott,Gendry Baratheon,1
+Tomard,Eddard Stark,1
+Street Urchin,Arya Stark,1
+Tribesmen Of Vale,Tyrion Lannister,1
+Tyrion Lannister,Lannister Soldier,1
+Tyrion Lannister,Benjen,1
+Steward,Robert Baratheon,1
+Stevron Frey,Walder Frey,1
+Stark Guard,Robb Stark,1
+Tyrion Lannister,Grenn,1
+Tyrion Lannister,Irri,1
+Stark Guard,Greatjon Umber,1
+Sansa Stark,Robert Baratheon,1
+Sansa Stark,Robb Stark,1
+Tyrion Lannister,Shagga,1
+Varys,Robb Stark,1
+Sam Tarly,Pypar,1
+Varys,Joffrey Lannister,1
+Sam Tarly,Othell Yarwyck,1
+Sam Pyp And Grenn,Grenn,1
+Sam Pyp And Grenn,Daenerys Targaryen,1
+Varys,Renly Baratheon,1
+Ryger Rivers,Walder Frey,1
+Viserys,Khal Drogo,1
+Sam Tarly,Rast,1
+Viserys,Maid,1
+Viserys,Sansa Stark,1
+Ros,Eddard Stark,1
+Ros,Arya Stark,1
+Rodrik Cassel,Stark Bannermen,1
+Viserys Targaryen,Irri,1
+Rodrik Cassel,Catelyn Stark,1
+Varys,Guard,1
+Sam Tarly,Renly Baratheon,1
+Tyrion Lannister,Steward,1
+Unidentified Nights Watchers,Nights Watcher,1
+Sansa Stark,Lord Varys,1
+Tyrion Lannister,Tribesmen Of Vale,1
+Tywin Lannister,Bronn,1
+Sansa Stark,Janos Slynt,1
+Tywin Lannister,Cersei Lannister,1
+Tywin Lannister,Daenerys Targaryen,1
+Tywin Lannister,Shagga,1
+Sansa Stark,Benjen,1
+Sandor Clegane,Arya Stark,1
+Vardis Egen,Tyrion Lannister,1
+Sandor Clegane,Sansa Stark,1
+Sandor Clegane,Robert Baratheon,1
+Sandor Clegane,Jonos Bracken,1
+Varys,Cersei Lannister,1
+Varys,Grand Maester Pycelle,1
+Sandor Clegane,Catelyn Stark,1
+A Voice,Eddard Stark,1
+Loras Tyrell,Sandor Clegane,1
+Robb Stark,Benjen,1
+Eddard Stark,Septa Mordane,1
+Grand Maester Pycelle,Man,1
+Grand Maester Pycelle,Joffrey Lannister,1
+Grand Maester Pycelle,Cersei Lannister,1
+Gendry Baratheon,Yoren,1
+Gared,Jon Snow,1
+Galbart Glover,Greatjon Umber,1
+Everyone,Catelyn Stark,1
+Eddark Stark,Populace,1
+Eddark Stark,Grand Maester Pycelle,1
+Eddard Stark,Will,1
+Eddard Stark,Viserys Targaryen,1
+Eddard Stark,Tomard,1
+Eddard Stark,Sandor Clegane,1
+Greatjon Umber,All,1
+Eddard Stark,Robin Arryn,1
+Eddard Stark,Old Nan,1
+Eddard Stark,Man,1
+Eddard Stark,Lysa Arryn,1
+Eddard Stark,Luwin,1
+Eddard Stark,Lancel Lannister,1
+Eddard Stark,Cassel,1
+Eddard Stark,Beric Dondarrion,1
+Doreah,Wine Merchant,1
+Doreah,Jorah Mormont,1
+Doreah,Benjen Stark,1
+Deanerys Targarian,Jorah Mormont,1
+Grand Maester Pycelle,Varys,1
+Greatjon Umber,Catelyn Stark,1
+Robb Stark,Assassin,1
+Jaime Lannister,Arya Stark,1
+Jaremy Rykker,Othell Yarwyck,1
+Janos Slynt,Varys,1
+Jaime Lannister,Theon Greyjoy,1
+Jaime Lannister,Sansa Stark,1
+Jaime Lannister,Ros,1
+Jaime Lannister,Robb Stark,1
+Jaime Lannister,Petyr Baelish,1
+Jaime Lannister,Lancel Lannister,1
+Jaime Lannister,Kevan Lannister,1
+Jaime Lannister,Jorah Mormont,1
+Jaime Lannister,Grenn,1
+Jaime Lannister,Bran Stark,1
+Irri,Jhiqui,1
+Greatjon Umber,Grand Maester Pycelle,1
+Illyrio,Jorah Mormont,1
+Illyrio,Daenerys Targaryen,1
+Hot Pie,Arya Stark,1
+Guard,Petyr Baelish,1
+Grenn,Tyrion Lannister,1
+Grenn,Sam Pyp And Grenn,1
+Grenn,Jorah Mormont,1
+Grenn,All,1
+Greatjon Umber,Walder Frey,1
+Greatjon Umber,Theon Greyjoy,1
+Greatjon Umber,Stark Guard,1
+Greatjon Umber,Rickard Karstark,1
+Daenerys Targaryen,Sansa Stark,1
+Daenerys Targaryen,Sandor Clegane,1
+Daenerys Targaryen,Sam Tarly,1
+Arya Stark,Soldier,1
+Bran Stark,Cersei Lannister,1
+Bran Stark,Cassel,1
+Beric Dondarrion,Eddard Stark,1
+Benjen Stark,Catelyn Stark,1
+Benjen,Tyrion Lannister,1
+Benjen,Robb Stark,1
+Barriston,Robert Baratheon,1
+Barristan Selmy,Petyr Baelish,1
+Barristan Selmy,Kings Landing Page,1
+Barristan Selmy,Jaime Lannister,1
+Assassin,Catelyn Stark,1
+Arya Stark,Varys,1
+Arya Stark,Sam Tarly,1
+Daenerys Targaryen,Robb Stark,1
+Arya Stark,Robert Baratheon,1
+Arya Stark,Maryn Trant,1
+Arya Stark,Lord Varys,1
+Arya Stark,Cersei Lannister,1
+Alliser Thorne,Viserys Targaryen,1
+Alliser Thorne,Tyrion Lannister,1
+Alliser Thorne,Pyp,1
+Alliser Thorne,Grenn,1
+Alliser Thorne,Daenerys Targaryen,1
+All,Stark Guard,1
+All,Pyp,1
+Addam Marbrand,Tywin Lannister,1
+Bran Stark,Jaime Lannister,1
+Bran Stark,Jon Snow,1
+Bran Stark,Rodrick Cassel,1
+Bronn,Lancel Lannister,1
+Daenerys Targaryen,Rakharo,1
+Daenerys Targaryen,Petyr Baelish,1
+Daenerys Targaryen,Jon Snow,1
+Daenerys Targaryen,Grand Maester Pycelle,1
+Cohollo,Khal Drogo,1
+Cersei Lannister,Tywin Lannister,1
+Cersei Lannister,Soldier,1
+Cersei Lannister,Septa Mordane,1
+Cersei Lannister,Ros,1
+Cersei Lannister,Robb Stark,1
+Cersei Lannister,Populace,1
+Cersei Lannister,Mhaegen,1
+Cersei Lannister,Marillion,1
+Cersei Lannister,Lord Varys,1
+Cersei Lannister,Grand Maester Pycelle,1
+Catelyn Stark,Robin Arryn,1
+Catelyn Stark,Marillion,1
+Catelyn Stark,Knight Of House Bracken,1
+Catelyn Stark,Joffrey Lannister,1
+Catelyn Stark,Greatjon Umber,1
+Catelyn Stark,Everyone,1
+Catelyn Stark,Doreah,1
+Catelyn Stark,Daenerys Targaryen,1
+Catelyn Stark,A Voice,1
+Bronn,Robin Arryn,1
+Jeor Mormont,Grand Maester Pycelle,1
+Jeor Mormont,Jaremy Rykker,1
+Jeor Mormont,Lord Varys,1
+Mirri Maz Duur,Jorah Mormont,1
+Osha,Sam Tarly,1
+Osha,Robb Stark,1
+Old Nan,Theon Greyjoy,1
+Nights Watcher,Pyp,1
+Nights Watch Brother,Jeor Mormont,1
+Night Watch Stable Boy,Jon Snow,1
+Myrcella Baratheon,Tyrion Lannister,1
+Mord,Loras Tyrell,1
+Mord,Arya Stark,1
+Mirri Maz Duur,Sam Tarly,1
+Mirri Maz Duur,Rakharo,1
+Mirri Maz Duur,Qotho,1
+Messenger,Tywin Lannister,1
+Luwin,Viserys,1
+Meryn Trant,Arya Stark,1
+Masha Heddle,Catelyn Stark,1
+Maryn Trant,Syrio Forel,1
+Marillion,Rodrick Cassel,1
+Marillion,Masha Heddle,1
+Marillion,Catelyn Stark,1
+Man,Petyr Baelish,1
+Maid,Viserys,1
+Maester Luwin,Several Stark Bannermen,1
+Maester Aemon,Sam Tarly,1
+Lysa Arryn,Ser Vardis,1
+Lysa Arryn,Mord,1
+Othell Yarwyck,Maester Aemon,1
+Othell Yarwyck,Sam Tarly,1
+Othell Yarwyck,Ser Alliser,1
+Petyr Baelish,Alliser Thorne,1
+Robb Stark,Arya Stark,1
+Rickon Stark,Osha,1
+Rickard Karstark,Theon Greyjoy,1
+Rhakaro,Jorah Mormont,1
+Renly Baratheon,Varys,1
+Renly Baratheon,Tell Me Something,1
+Renly Baratheon,Sansa Stark,1
+Renly Baratheon,Man,1
+Renly Baratheon,Janos Slynt,1
+Rast,Tyrion Lannister,1
+Rast,Jon Snow,1
+Rast,Alliser Thorne,1
+Rakharo,Wine Merchant,1
+Rakharo,Shae,1
+Rakharo,Benjen Stark,1
+Qotho,Rakharo,1
+Qotho,Kevan Lannister,1
+Qotho,Jorah Mormont,1
+Pyp,Alliser Thorne,1
+Populace,Yoren,1
+Petyr Baelish,Theon Greyjoy,1
+Petyr Baelish,Grenn,1
+Petyr Baelish,Daenerys Targaryen,1
+Petyr Baelish,Barristan Selmy,1
+Petyr Baelish,Arya Stark,1
+Lysa Arryn,Knight,1
+Luwin,Eddard Stark,1
+Jeor Mormont,Rakharo,1
+Jon Snow,Renly Baratheon,1
+Jorah Mormont,Qotho,1
+Jorah Mormont,Little Bird,1
+Jorah Mormont,Jon Snow,1
+Jorah Mormont,Jeor Mormont,1
+Jorah Mormont,Illyrio,1
+Jorah Mormont,Deanerys Targarian,1
+Jonrobb,Cassel,1
+Jonos Bracken,Galbart Glover,1
+Jon Snow,Syrio Forel,1
+Jon Snow,Shae,1
+Jon Snow,Septa Mordane,1
+Jon Snow,Sam Pyp And Grenn,1
+Jon Snow,Rast,1
+Lord Varys,Khal Drogo,1
+Jon Snow,Pypar,1
+Jon Snow,Petyr Baelish,1
+Jon Snow,Othell Yarwyck,1
+Jon Snow,Night Watch Stable Boy,1
+Jon Snow,Greatjon Umber,1
+Jon Snow,Bran Stark,1
+Joffrey Lannister,Yoren,1
+Joffrey Lannister,Theon Greyjoy,1
+Joffrey Lannister,Soldier,1
+Joffrey Lannister,Robert Baratheon,1
+Jhiqui,Doreah,1
+Jeor Mormont,Unidentified Nights Watchers,1
+Jorah Mormont,Rhakaro,1
+Jorah Mormont,Tyrion Lannister,1
+Jorah Mormont,Viserys,1
+Jory Cassel,Kings Landing Guard,1
+Lord Varys,Jeor Mormont,1
+Addam Marbrand,Kevan Lannister,1
+Loras Tyrell,Cersei Lannister,1
+Little Bird,Wine Merchant,1
+Lannister Soldier,Bronn,1
+Lannister Scout,Robb Stark,1
+Lannister Scout,Greatjon Umber,1
+Lancel Lannister,Cersei Lannister,1
+Knight Of House Bracken,Tyrion Lannister,1
+Knight,Robin Arryn,1
+Kings Landing Page,Sansa Stark,1
+Kings Landing Page,Cersei Lannister,1
+Kings Landing Guard,Jaime Lannister,1
+Kings Landing Guard,Eddard Stark,1
+King Joffrey,Kings Landing Page,1
+King Joffrey,Eddard Stark,1
+King Joffrey,Cersei Lannister,1
+King Joffrey,Barristan Selmy,1
+Khal Drogo,Viserys Targaryen,1
+Khal Drogo,Qotho,1
+Khal Drogo,King Joffrey,1
+Khal Drogo,Jorah Mormont,1
+Khal Drogo,Cohollo,1
+Kevan Lannister,Leo Lefford,1
+Jory Cassel,Petyr Baelish,1
+Yoren,Vardis Egen,1
