@@ -50,3 +50,105 @@ got-social-graphs/
 │
 ├── requirements.txt                        # Python dependencies
 └── README.md                               # This file
+
+
+
+
+---
+
+## 3. Data
+
+### 3.1 Script data (Kaggle)
+
+The raw script data is from the Kaggle dataset:
+
+> **“Game Of Thrones TV Series script data” by G. Gopinath**
+
+Link: [https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data](https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data)
+
+In this project we only use **Season 1**. If `Game_of_Thrones_Script.csv` is not present in `dataset/`, please download it from Kaggle and place it there.
+
+### 3.2 LabMT sentiment lexicon
+
+The **LabMT** happiness lexicon by Dodds et al. is provided as:
+
+* `dataset/LabMT_english.csv`
+
+Each word is assigned a happiness score in the range **1–9**, where:
+
+* Around **5** ≈ neutral,
+* > 5 ≈ more positive,
+* < 5 ≈ more negative.
+
+We drop neutral words (between 4 and 6) and compute mean **shifted** scores per community.
+
+---
+
+## 4. Installation
+
+You can run the notebook in a fresh Python 3 environment.
+
+### 4.1 Create and activate environment (optional)
+
+```bash
+python -m venv venv
+source venv/bin/activate        # On macOS / Linux
+# .\venv\Scripts\activate       # On Windows
+```
+
+### 4.2 Install dependencies
+
+If `requirements.txt` is present:
+
+```bash
+pip install -r requirements.txt
+```
+
+Otherwise, you mainly need:
+
+```bash
+pip install networkx numpy pandas matplotlib nltk scikit-learn wordcloud
+```
+
+Plus any additional packages you normally use for plotting or Jupyter.
+
+---
+
+## 5. Reproducing the Analysis
+
+1. **Clone or download** this repository.
+
+2. Ensure the following files exist in `dataset/`:
+
+   * `Game_of_Thrones_Script.csv`
+   * `LabMT_english.csv`
+
+3. Open the main notebook:
+
+   ```text
+   notebook/got_s1_network_text_sentiment.ipynb
+   ```
+
+4. Run all cells **from top to bottom**.
+   The notebook will:
+
+   * Clean the raw script,
+   * Build the Season 1 network,
+   * Compute centralities and Louvain communities,
+   * Aggregate text per community and compute TF–IDF,
+   * Compute LabMT sentiment per community,
+   * Generate and save the figures listed below.
+
+5. The figures saved to `report/` are:
+
+   * `fig_network.pdf`
+   * `fig_centralities.pdf`
+   * `fig_wordclouds.pdf`
+   * `fig_sentiment.pdf`
+
+These are the figures used in the final report.
+
+
+
+
+
