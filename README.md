@@ -83,7 +83,7 @@ The **LabMT** happiness lexicon by Dodds et al. is provided as:
 Each word is assigned a happiness score in the range **1–9**, where:
 
 * Around **5** ≈ neutral,
-* > 5 ≈ more positive,
+* /> 5 ≈ more positive,
 * < 5 ≈ more negative.
 
 We drop neutral words (between 4 and 6) and compute mean **shifted** scores per community.
