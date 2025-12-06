@@ -158,7 +158,7 @@ These are the figures used in the final report.
 
 
 
-## 9. Informal Citation
+## 6. Informal Citation
 
 If you refer to this project, you can cite it informally as:
 
