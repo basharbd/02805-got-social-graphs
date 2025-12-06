@@ -166,6 +166,4 @@ If you refer to this project, you can cite it informally as:
 > project report for DTU course 02805 Social Graphs and Interactions, 2025.
 > GitHub: [https://github.com/basharbdewi/got-social-graphs](https://github.com/basharbdewi/got-social-graphs)
 
-```
-::contentReference[oaicite:0]{index=0}
-```
+
