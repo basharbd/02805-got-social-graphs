@@ -68,7 +68,7 @@ The raw script data is from the Kaggle dataset:
 > **“Game Of Thrones TV Series script data” by G. Gopinath**
 
 Link:
-[[https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data](https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data)](https://www.kaggle.com/datasets/gopinath15/gameofthrones)
+https://www.kaggle.com/datasets/gopinath15/gameofthrones
 
 please download it from Kaggle.
 In this project we only use **Season 1**.
