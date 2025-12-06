@@ -1,3 +1,4 @@
+
 # Network, Language, and Sentiment in *Game of Thrones* Season 1
 
 This repository contains the full code, data processing pipeline, and report for my final project in the DTU course **02805 Social Graphs and Interactions**.
@@ -12,12 +13,14 @@ We build an **undirected, weighted character interaction network** from a public
 
 - **Nodes** = characters (speakers).
 - **Edges** = two characters speak in the same scene (weight = number of co-speaking events).
-- We analyze:
-  - Global structure (size, density, degree distribution, connectivity),
-  - Centralities (degree, betweenness, eigenvector),
-  - Louvain communities and their narrative interpretation,
-  - Community-level **lexical themes** (TF–IDF) and
-  - Community-level **sentiment** using the **LabMT happiness lexicon**.
+
+We analyze:
+
+- Global structure (size, density, degree distribution, connectivity),
+- Centralities (degree, betweenness, eigenvector),
+- Louvain communities and their narrative interpretation,
+- Community-level **lexical themes** (TF–IDF),
+- Community-level **sentiment** using the **LabMT happiness lexicon**.
 
 The main research finding is that:
 
@@ -38,11 +41,11 @@ got-social-graphs/
 │   └── LabMT_english.csv                   # LabMT happiness lexicon
 │
 ├── notebook/
-│   └── got_s1_network_text_sentiment.ipynb # Main analysis notebook
+│   └── got_season1_social_graphs.ipynb # Main analysis notebook
 │
 ├── report/
-│   ├── got_social_graphs_report.tex        # LaTeX source (PNAS template)
-│   ├── got_social_graphs_report.pdf        # Final 5-page report
+│   ├── Research_report.tex        # LaTeX source (PNAS template)
+│   ├── got_report.pdf        # Final 5-page report
 │   ├── fig_network.pdf                     # Figure 1: Season 1 network with communities
 │   ├── fig_centralities.pdf                # Figure 2: Centrality rankings
 │   ├── fig_wordclouds.pdf                  # Figure 3: Community wordclouds
@@ -50,7 +53,7 @@ got-social-graphs/
 │
 ├── requirements.txt                        # Python dependencies
 └── README.md                               # This file
-
+````
 
 
 
@@ -64,9 +67,12 @@ The raw script data is from the Kaggle dataset:
 
 > **“Game Of Thrones TV Series script data” by G. Gopinath**
 
-Link: [https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data](https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data)
+Link:
+[https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data](https://www.kaggle.com/datasets/gokulnath007/game-of-thrones-tv-series-script-data)
 
-In this project we only use **Season 1**. If `Game_of_Thrones_Script.csv` is not present in `dataset/`, please download it from Kaggle and place it there.
+please download it from Kaggle.
+In this project we only use **Season 1**.
+
 
 ### 3.2 LabMT sentiment lexicon
 
@@ -126,7 +132,7 @@ Plus any additional packages you normally use for plotting or Jupyter.
 3. Open the main notebook:
 
    ```text
-   notebook/got_s1_network_text_sentiment.ipynb
+   notebook/got_season1_social_graphs.ipynb
    ```
 
 4. Run all cells **from top to bottom**.
@@ -148,7 +154,18 @@ Plus any additional packages you normally use for plotting or Jupyter.
 
 These are the figures used in the final report.
 
+---
 
 
 
+## 9. Informal Citation
 
+If you refer to this project, you can cite it informally as:
+
+> B. Bdewi, *Network, Language, and Sentiment in Game of Thrones Season 1*,
+> project report for DTU course 02805 Social Graphs and Interactions, 2025.
+> GitHub: [https://github.com/basharbdewi/got-social-graphs](https://github.com/basharbdewi/got-social-graphs)
+
+```
+::contentReference[oaicite:0]{index=0}
+```
